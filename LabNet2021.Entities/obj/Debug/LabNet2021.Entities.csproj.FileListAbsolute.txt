@@ -1,0 +1,12 @@
+C:\Users\peque\Desktop\NEORIS\labnet2021\LabNet2021.TP9\LabNet2021.Entities\bin\Debug\LabNet2021.Entities.dll.config
+C:\Users\peque\Desktop\NEORIS\labnet2021\LabNet2021.TP9\LabNet2021.Entities\bin\Debug\LabNet2021.Entities.dll
+C:\Users\peque\Desktop\NEORIS\labnet2021\LabNet2021.TP9\LabNet2021.Entities\bin\Debug\LabNet2021.Entities.pdb
+C:\Users\peque\Desktop\NEORIS\labnet2021\LabNet2021.TP9\LabNet2021.Entities\bin\Debug\EntityFramework.dll
+C:\Users\peque\Desktop\NEORIS\labnet2021\LabNet2021.TP9\LabNet2021.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\peque\Desktop\NEORIS\labnet2021\LabNet2021.TP9\LabNet2021.Entities\bin\Debug\EntityFramework.xml
+C:\Users\peque\Desktop\NEORIS\labnet2021\LabNet2021.TP9\LabNet2021.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\peque\Desktop\NEORIS\labnet2021\LabNet2021.TP9\LabNet2021.Entities\obj\Debug\LabNet2021.Entities.csprojAssemblyReference.cache
+C:\Users\peque\Desktop\NEORIS\labnet2021\LabNet2021.TP9\LabNet2021.Entities\obj\Debug\LabNet2021.Entities.csproj.CoreCompileInputs.cache
+C:\Users\peque\Desktop\NEORIS\labnet2021\LabNet2021.TP9\LabNet2021.Entities\obj\Debug\LabNet2021.Entities.csproj.CopyComplete
+C:\Users\peque\Desktop\NEORIS\labnet2021\LabNet2021.TP9\LabNet2021.Entities\obj\Debug\LabNet2021.Entities.dll
+C:\Users\peque\Desktop\NEORIS\labnet2021\LabNet2021.TP9\LabNet2021.Entities\obj\Debug\LabNet2021.Entities.pdb
